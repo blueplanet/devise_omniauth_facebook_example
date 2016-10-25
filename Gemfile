@@ -46,6 +46,7 @@ gem 'devise'
 gem 'devise-bootstrap-views'
 gem 'devise-i18n'
 gem 'devise-i18n-views'
+gem 'omniauth-facebook'
 
 # admin pages
 gem 'rails_admin'
