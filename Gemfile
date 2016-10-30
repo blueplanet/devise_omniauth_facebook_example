@@ -108,3 +108,5 @@ group :production, :staging do
   # ログ保存先変更、静的アセット Heroku 向けに調整
   gem 'rails_12factor'
 end
+
+gem 'devise_social_login', github: 'blueplanet/devise_social_login'
