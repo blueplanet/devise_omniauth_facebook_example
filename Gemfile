@@ -61,7 +61,7 @@ gem 'enum_help'
 # gem 'capistrano-rails', group: :development
 
 # Seed Data Management
-gem 'seed-fu', '~> 2.3'
+gem 'seed-fu'
 
 group :development, :test do
 

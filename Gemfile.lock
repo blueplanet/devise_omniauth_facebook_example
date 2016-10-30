@@ -166,7 +166,7 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0521)
     mini_portile2 (2.1.0)
-    minitest (5.9.0)
+    minitest (5.9.1)
     multi_json (1.11.2)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
@@ -314,9 +314,9 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
-    seed-fu (2.3.5)
-      activerecord (>= 3.1, < 4.3)
-      activesupport (>= 3.1, < 4.3)
+    seed-fu (2.3.6)
+      activerecord (>= 3.1)
+      activesupport (>= 3.1)
     selenium-webdriver (2.45.0)
       childprocess (~> 0.5)
       multi_json (~> 1.0)
@@ -397,7 +397,7 @@ DEPENDENCIES
   sass
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
-  seed-fu (~> 2.3)
+  seed-fu
   selenium-webdriver
   spring
   turbolinks
@@ -407,4 +407,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.12.5
+   1.13.6
