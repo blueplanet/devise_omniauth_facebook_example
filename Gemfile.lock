@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/blueplanet/devise_social_login.git
-  revision: 1cc21ecd54c1efa58b1bec9c2b64cbf720cdfd6e
+  revision: f1da954c2caf9673ce75d949b8645b510526f501
   specs:
     devise_social_login (0.1.0)
       devise
@@ -95,7 +95,7 @@ GEM
       responders
       warden (~> 1.2.3)
     devise-bootstrap-views (0.0.9)
-    devise-i18n (1.1.0)
+    devise-i18n (1.1.1)
     devise-i18n-views (0.3.7)
     diff-lcs (1.2.5)
     enum_help (0.0.15)
@@ -238,7 +238,7 @@ GEM
     rails_12factor (0.0.3)
       rails_serve_static_assets
       rails_stdout_logging
-    rails_admin (1.0.0)
+    rails_admin (1.1.0)
       builder (~> 3.1)
       coffee-rails (~> 4.0)
       font-awesome-rails (>= 3.0, < 5)
@@ -289,7 +289,7 @@ GEM
       rspec-mocks (~> 3.0.0)
       rspec-support (~> 3.0.0)
     rspec-support (3.0.4)
-    rubocop (0.44.1)
+    rubocop (0.45.0)
       parser (>= 2.3.1.1, < 3.0)
       powerpack (~> 0.1)
       rainbow (>= 1.99.1, < 3.0)
