@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/blueplanet/devise_social_login.git
-  revision: 3360011d3ba701dffeac339d71aa4ff81b8f54d1
+  revision: 1cc21ecd54c1efa58b1bec9c2b64cbf720cdfd6e
   specs:
     devise_social_login (0.1.0)
       devise
